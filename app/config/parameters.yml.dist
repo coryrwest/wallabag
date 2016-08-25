@@ -38,5 +38,3 @@ parameters:
     fosuser_confirmation: true
 
     from_email: no-reply@wallabag.org
-
-    base_path: ""
